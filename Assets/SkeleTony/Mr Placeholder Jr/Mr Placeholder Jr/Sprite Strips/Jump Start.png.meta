@@ -1,0 +1,1084 @@
+fileFormatVersion: 2
+guid: 0dd0eb6507a692f45957820507f4137e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump Start_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27029
+        width: 950
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63845020302970a44a4cef4393e79b92
+      internalID: 126367008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25843
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cc342ad5915824bb8855e11e4f33ee
+      internalID: 1649224280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24662
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b520c24c12be746b28f4a2cdbeac60
+      internalID: 1213980834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23484
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03fa23a6dbf8a24c9e369f2f26d1691
+      internalID: -189031581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22283
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252bd05432da4cf408e399e301672ddd
+      internalID: -905314719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21139
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817822a65432da0479f89cf1257970ab
+      internalID: -1547516764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19961
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedda304fd5f609448b10b8ee4ca1aec
+      internalID: 1321213788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18775
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bce7999e5f8bd42853f16ebcbc36d2
+      internalID: -1242146278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17591
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5744921211b594447bbd999f68ff8b80
+      internalID: 1584674925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16468
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a3fec64bce030418fb0816ffc3c887
+      internalID: -2050643080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15288
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85732b6e51411e49ada39ef82a00ea4
+      internalID: -89305367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14086
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f416ea74a46974d8c25e0e69fbfc57
+      internalID: 248470992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12901
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fffe643e4ac89c4c9e85b30e335fdcd
+      internalID: 964845494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11706
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f6910d99269a3459de53c58eec0706
+      internalID: -533988968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10542
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff259f9744bd1e14794baed4153adb10
+      internalID: -901444739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9404
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fe3dd0d39f1754f90ed086ee9e0244
+      internalID: -1559746767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8190
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adbfd29938f60946ab0427b9a4ef55a
+      internalID: -1105613522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7024
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652e7fdeaada6ac42911f7733446f54a
+      internalID: 1555647037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5863
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6899dff77871c04ab40f8d2c3966e40
+      internalID: -1334568944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4677
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15528918c99a57f4f8d4f81ce443decb
+      internalID: -622893996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3564
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8858e429a9a76e74bad6cf199a95e585
+      internalID: 1524107204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2428
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa07785a4ad6d442944fcef35176dc3
+      internalID: 239153136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1243
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c3319dbff7ad478bf38098a721e34
+      internalID: -1039243573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Start_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 950
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e53bcc4a0060a4881f2baf0b945b96
+      internalID: 2060998877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: 254.71013, y: -12948.82}
+      - {x: 6.8840575, y: -12948.82}
+      - {x: -61.95652, y: -12976.3125}
+      - {x: -199.63766, y: -13306.219}
+      - {x: -185.86955, y: -13333.711}
+      - {x: -144.56522, y: -13388.695}
+      - {x: -117.02898, y: -13402.441}
+      - {x: -117.02898, y: -13388.695}
+      - {x: -130.79709, y: -13402.441}
+      - {x: -144.56522, y: -13388.695}
+      - {x: -185.86955, y: -13374.949}
+      - {x: -254.71013, y: -13429.934}
+      - {x: -254.71013, y: -13567.395}
+      - {x: -199.63766, y: -13663.617}
+      - {x: 61.95652, y: -13883.555}
+      - {x: 227.1739, y: -13883.555}
+      - {x: 364.85504, y: -13814.824}
+      - {x: 364.85504, y: -13443.68}
+      - {x: 282.24637, y: -12962.566}
+    - - {x: 158.33333, y: -13718.602}
+      - {x: 89.49275, y: -13636.125}
+      - {x: 89.49275, y: -13677.363}
+      - {x: 158.33333, y: -13732.348}
+    - - {x: 240.94202, y: -13168.758}
+      - {x: 213.40579, y: -13182.504}
+      - {x: 144.56522, y: -13237.488}
+      - {x: 144.56522, y: -13306.219}
+      - {x: 172.10144, y: -13361.203}
+      - {x: 268.47824, y: -13361.203}
+      - {x: 309.7826, y: -13306.219}
+      - {x: 309.7826, y: -13209.996}
+      - {x: 282.24637, y: -13168.758}
+    - - {x: 323.55072, y: -13333.711}
+      - {x: 447.46375, y: -13333.711}
+      - {x: 474.99997, y: -13319.965}
+      - {x: 474.99997, y: -13209.996}
+      - {x: 351.08694, y: -13209.996}
+      - {x: 323.55072, y: -13264.98}
+    - - {x: 282.24637, y: -12660.152}
+      - {x: 309.7826, y: -12687.645}
+      - {x: 378.62317, y: -12618.914}
+      - {x: 378.62317, y: -12220.277}
+      - {x: 254.71013, y: -11780.402}
+      - {x: -130.79709, y: -11780.402}
+      - {x: -254.71013, y: -12082.816}
+      - {x: -254.71013, y: -12508.945}
+      - {x: 89.49275, y: -12742.629}
+      - {x: 185.86955, y: -12742.629}
+      - {x: 268.47824, y: -12687.645}
+      - {x: 254.71013, y: -12646.406}
+      - {x: 213.40579, y: -12605.168}
+    - - {x: 364.85504, y: -12110.309}
+      - {x: 323.55072, y: -12151.547}
+      - {x: 323.55072, y: -12192.785}
+      - {x: 364.85504, y: -12234.023}
+      - {x: 461.23187, y: -12234.023}
+      - {x: 474.99997, y: -12192.785}
+      - {x: 474.99997, y: -12110.309}
+    - - {x: 268.47824, y: -11986.594}
+      - {x: 240.94202, y: -11986.594}
+      - {x: 144.56522, y: -12082.816}
+      - {x: 144.56522, y: -12151.547}
+      - {x: 172.10144, y: -12220.277}
+      - {x: 268.47824, y: -12220.277}
+      - {x: 309.7826, y: -12151.547}
+      - {x: 309.7826, y: -12027.832}
+    - - {x: 240.94202, y: -10598.238}
+      - {x: -103.260864, y: -10598.238}
+      - {x: -254.71013, y: -11010.621}
+      - {x: -254.71013, y: -11203.066}
+      - {x: 48.188404, y: -11601.703}
+      - {x: 378.62317, y: -11601.703}
+      - {x: 378.62317, y: -11354.273}
+      - {x: 364.85504, y: -11313.035}
+    - - {x: 296.01447, y: -11010.621}
+      - {x: 296.01447, y: -11079.352}
+      - {x: 337.31882, y: -11120.59}
+      - {x: 447.46375, y: -11120.59}
+      - {x: 461.23187, y: -11079.352}
+      - {x: 461.23187, y: -11024.367}
+      - {x: 447.46375, y: -11010.621}
+    - - {x: 172.10144, y: -10969.383}
+      - {x: 130.79709, y: -11010.621}
+      - {x: 158.33333, y: -11079.352}
+      - {x: 213.40579, y: -11079.352}
+      - {x: 240.94202, y: -11051.859}
+      - {x: 240.94202, y: -11010.621}
+      - {x: 199.63766, y: -10969.383}
+    - - {x: 227.1739, y: -10804.43}
+      - {x: 130.79709, y: -10859.414}
+      - {x: 130.79709, y: -10928.145}
+      - {x: 172.10144, y: -10969.383}
+      - {x: 213.40579, y: -10969.383}
+      - {x: 296.01447, y: -10886.906}
+      - {x: 296.01447, y: -10845.668}
+      - {x: 282.24637, y: -10804.43}
+    - - {x: -6.8840575, y: -9416.074}
+      - {x: -199.63766, y: -9663.504}
+      - {x: -254.71013, y: -9924.68}
+      - {x: -254.71013, y: -10034.648}
+      - {x: 20.652172, y: -10460.777}
+      - {x: 130.79709, y: -10460.777}
+      - {x: 254.71013, y: -10447.031}
+      - {x: 392.3913, y: -10240.84}
+      - {x: 392.3913, y: -9952.172}
+      - {x: 227.1739, y: -9416.074}
+    - - {x: 282.24637, y: -9897.1875}
+      - {x: 254.71013, y: -9924.68}
+      - {x: 254.71013, y: -9979.664}
+      - {x: 296.01447, y: -10007.156}
+      - {x: 378.62317, y: -10007.156}
+      - {x: 419.92752, y: -9965.918}
+      - {x: 419.92752, y: -9938.426}
+      - {x: 378.62317, y: -9897.1875}
+    - - {x: 117.02898, y: -9828.457}
+      - {x: 103.260864, y: -9855.949}
+      - {x: 103.260864, y: -9910.934}
+      - {x: 144.56522, y: -9924.68}
+      - {x: 199.63766, y: -9924.68}
+      - {x: 213.40579, y: -9897.1875}
+      - {x: 213.40579, y: -9842.203}
+      - {x: 172.10144, y: -9828.457}
+    - - {x: 185.86955, y: -9636.012}
+      - {x: 130.79709, y: -9677.25}
+      - {x: 130.79709, y: -9759.727}
+      - {x: 144.56522, y: -9787.219}
+      - {x: 199.63766, y: -9787.219}
+      - {x: 282.24637, y: -9704.742}
+      - {x: 282.24637, y: -9663.504}
+      - {x: 240.94202, y: -9622.266}
+    - - {x: -240.94202, y: -8233.91}
+      - {x: -240.94202, y: -9319.852}
+      - {x: 392.3913, y: -9319.852}
+      - {x: 392.3913, y: -8398.863}
+      - {x: 309.7826, y: -8233.91}
+    - - {x: 75.72463, y: -8673.785}
+      - {x: 75.72463, y: -8770.008}
+      - {x: 117.02898, y: -8783.754}
+      - {x: 130.79709, y: -8783.754}
+      - {x: 172.10144, y: -8770.008}
+      - {x: 172.10144, y: -8701.277}
+      - {x: 158.33333, y: -8673.785}
+    - - {x: 213.40579, y: -8440.102}
+      - {x: 117.02898, y: -8508.832}
+      - {x: 117.02898, y: -8577.5625}
+      - {x: 130.79709, y: -8605.055}
+      - {x: 240.94202, y: -8605.055}
+      - {x: 268.47824, y: -8550.07}
+      - {x: 268.47824, y: -8453.848}
+      - {x: 227.1739, y: -8440.102}
+    - - {x: -130.79709, y: -7065.492}
+      - {x: -240.94202, y: -7367.9062}
+      - {x: -240.94202, y: -7917.75}
+      - {x: -75.72463, y: -8165.1797}
+      - {x: 89.49275, y: -8165.1797}
+      - {x: 392.3913, y: -7945.242}
+      - {x: 392.3913, y: -7532.8594}
+      - {x: 254.71013, y: -7079.2383}
+      - {x: 227.1739, y: -7065.492}
+    - - {x: -34.420288, y: -7532.8594}
+      - {x: -20.652172, y: -7546.6055}
+      - {x: 34.420288, y: -7519.1133}
+      - {x: 20.652172, y: -7532.8594}
+      - {x: 20.652172, y: -7574.0977}
+      - {x: 34.420288, y: -7587.8438}
+      - {x: 20.652172, y: -7587.8438}
+    - - {x: 185.86955, y: -7271.6836}
+      - {x: 117.02898, y: -7354.16}
+      - {x: 117.02898, y: -7422.8906}
+      - {x: 158.33333, y: -7436.6367}
+      - {x: 199.63766, y: -7436.6367}
+      - {x: 254.71013, y: -7367.9062}
+      - {x: 268.47824, y: -7312.922}
+      - {x: 227.1739, y: -7271.6836}
+    - - {x: -61.95652, y: -5883.328}
+      - {x: -240.94202, y: -6158.25}
+      - {x: -240.94202, y: -6694.3477}
+      - {x: -172.10144, y: -6983.0156}
+      - {x: -130.79709, y: -7010.508}
+      - {x: 213.40579, y: -7010.508}
+      - {x: 392.3913, y: -6831.8086}
+      - {x: 392.3913, y: -6433.172}
+      - {x: 199.63766, y: -5883.328}
+    - - {x: -34.420288, y: -6364.4414}
+      - {x: -6.8840575, y: -6350.6953}
+      - {x: -20.652172, y: -6364.4414}
+      - {x: -20.652172, y: -6405.6797}
+      - {x: 6.8840575, y: -6419.426}
+      - {x: 6.8840575, y: -6391.9336}
+    - - {x: 158.33333, y: -6089.5195}
+      - {x: 103.260864, y: -6144.504}
+      - {x: 103.260864, y: -6213.2344}
+      - {x: 117.02898, y: -6254.4727}
+      - {x: 185.86955, y: -6254.4727}
+      - {x: 254.71013, y: -6185.742}
+      - {x: 254.71013, y: -6117.0117}
+      - {x: 240.94202, y: -6089.5195}
+    - - {x: 103.260864, y: -4701.164}
+      - {x: -158.33333, y: -4701.164}
+      - {x: -240.94202, y: -4962.34}
+      - {x: -240.94202, y: -5649.6445}
+      - {x: -185.86955, y: -5800.8516}
+      - {x: -103.260864, y: -5855.836}
+      - {x: 103.260864, y: -5855.836}
+      - {x: 406.1594, y: -5525.9297}
+      - {x: 406.1594, y: -5264.754}
+      - {x: 213.40579, y: -4907.3555}
+    - - {x: 144.56522, y: -4907.3555}
+      - {x: 89.49275, y: -4989.832}
+      - {x: 89.49275, y: -5058.5625}
+      - {x: 103.260864, y: -5072.3086}
+      - {x: 199.63766, y: -5072.3086}
+      - {x: 240.94202, y: -5003.578}
+      - {x: 240.94202, y: -4921.1016}
+      - {x: 213.40579, y: -4907.3555}
+    - - {x: -240.94202, y: -4632.4336}
+      - {x: -185.86955, y: -4701.164}
+      - {x: -34.420288, y: -4701.164}
+      - {x: 406.1594, y: -4398.75}
+      - {x: 406.1594, y: -3917.6367}
+      - {x: 117.02898, y: -3532.746}
+      - {x: -144.56522, y: -3532.746}
+      - {x: -240.94202, y: -3807.668}
+    - - {x: 130.79709, y: -3725.1914}
+      - {x: 89.49275, y: -3780.1758}
+      - {x: 89.49275, y: -3862.6523}
+      - {x: 103.260864, y: -3890.1445}
+      - {x: 172.10144, y: -3890.1445}
+      - {x: 227.1739, y: -3821.414}
+      - {x: 227.1739, y: -3738.9375}
+      - {x: 199.63766, y: -3725.1914}
+    - - {x: 337.31882, y: -3189.0938}
+      - {x: 406.1594, y: -3106.6172}
+      - {x: 406.1594, y: -3051.6328}
+      - {x: 378.62317, y: -2982.9023}
+      - {x: 144.56522, y: -2831.6953}
+      - {x: 75.72463, y: -2707.9805}
+      - {x: 75.72463, y: -2680.4883}
+      - {x: 117.02898, y: -2721.7266}
+      - {x: 144.56522, y: -2721.7266}
+      - {x: 227.1739, y: -2652.996}
+      - {x: 199.63766, y: -2501.789}
+      - {x: 158.33333, y: -2378.0742}
+      - {x: 130.79709, y: -2350.582}
+      - {x: -185.86955, y: -2350.582}
+      - {x: -268.47824, y: -2680.4883}
+      - {x: -268.47824, y: -3519}
+      - {x: -240.94202, y: -3519}
+      - {x: -185.86955, y: -3532.746}
+      - {x: -130.79709, y: -3532.746}
+      - {x: -103.260864, y: -3491.5078}
+      - {x: -103.260864, y: -3436.5234}
+      - {x: -61.95652, y: -3244.0781}
+    - - {x: -199.63766, y: -1182.1641}
+      - {x: -309.7826, y: -1786.9922}
+      - {x: -309.7826, y: -2336.836}
+      - {x: -296.01447, y: -2350.582}
+      - {x: -61.95652, y: -2350.582}
+      - {x: 406.1594, y: -2130.6445}
+      - {x: 406.1594, y: -1415.8477}
+      - {x: 172.10144, y: -1182.1641}
+    - - {x: 254.71013, y: -302.41406}
+      - {x: 89.49275, y: 0}
+      - {x: -89.49275, y: 0}
+      - {x: -130.79709, y: -27.492188}
+      - {x: -240.94202, y: -288.66797}
+      - {x: -351.08694, y: -1017.21094}
+      - {x: -351.08694, y: -1099.6875}
+      - {x: -296.01447, y: -1168.418}
+      - {x: -199.63766, y: -1168.418}
+      - {x: 351.08694, y: -811.01953}
+      - {x: 406.1594, y: -728.54297}
+      - {x: 406.1594, y: -577.33594}
+    - - {x: -130.79709, y: 1182.1641}
+      - {x: -240.94202, y: 893.4961}
+      - {x: -213.40579, y: 728.54297}
+      - {x: -199.63766, y: 701.0508}
+      - {x: -213.40579, y: 714.7969}
+      - {x: -254.71013, y: 728.54297}
+      - {x: -337.31882, y: 577.33594}
+      - {x: -392.3913, y: 261.17578}
+      - {x: -392.3913, y: 27.492188}
+      - {x: -378.62317, y: 13.746094}
+      - {x: -117.02898, y: 13.746094}
+      - {x: 406.1594, y: 426.1289}
+      - {x: 406.1594, y: 920.9883}
+      - {x: 199.63766, y: 1182.1641}
+    - - {x: -89.49275, y: 2350.582}
+      - {x: -144.56522, y: 2336.836}
+      - {x: -227.1739, y: 2075.6602}
+      - {x: -227.1739, y: 2006.9297}
+      - {x: -433.69562, y: 1402.1016}
+      - {x: -433.69562, y: 1223.4023}
+      - {x: -419.92752, y: 1209.6562}
+      - {x: -117.02898, y: 1209.6562}
+      - {x: 406.1594, y: 1608.293}
+      - {x: 406.1594, y: 1910.707}
+      - {x: 48.188404, y: 2350.582}
+    - - {x: -309.7826, y: 1938.1992}
+      - {x: -337.31882, y: 1896.9609}
+      - {x: -337.31882, y: 1814.4844}
+      - {x: -309.7826, y: 1773.2461}
+      - {x: -254.71013, y: 1773.2461}
+      - {x: -213.40579, y: 1828.2305}
+      - {x: -213.40579, y: 1924.4531}
+      - {x: -240.94202, y: 1938.1992}
+    - - {x: -199.63766, y: 3532.746}
+      - {x: -474.99997, y: 2652.996}
+      - {x: -474.99997, y: 2419.3125}
+      - {x: -433.69562, y: 2391.8203}
+      - {x: -268.47824, y: 2391.8203}
+      - {x: 406.1594, y: 2776.711}
+      - {x: 406.1594, y: 3134.1094}
+      - {x: 130.79709, y: 3532.746}
+    - - {x: -254.71013, y: 3161.6016}
+      - {x: -309.7826, y: 3161.6016}
+      - {x: -364.85504, y: 3079.125}
+      - {x: -364.85504, y: 3010.3945}
+      - {x: -254.71013, y: 3010.3945}
+      - {x: -240.94202, y: 3024.1406}
+      - {x: -227.1739, y: 3092.871}
+      - {x: -227.1739, y: 3147.8555}
+    - - {x: 158.33333, y: 4701.164}
+      - {x: -158.33333, y: 4701.164}
+      - {x: -433.69562, y: 4330.0195}
+      - {x: -433.69562, y: 3587.7305}
+      - {x: -406.1594, y: 3560.2383}
+      - {x: -89.49275, y: 3560.2383}
+      - {x: 364.85504, y: 3876.3984}
+      - {x: 364.85504, y: 4288.7812}
+    - - {x: -199.63766, y: 4206.3047}
+      - {x: -185.86955, y: 4192.5586}
+      - {x: -158.33333, y: 4192.5586}
+      - {x: -158.33333, y: 4206.3047}
+      - {x: -172.10144, y: 4206.3047}
+      - {x: -213.40579, y: 4165.0664}
+      - {x: -199.63766, y: 4165.0664}
+    - - {x: -172.10144, y: 5869.582}
+      - {x: -213.40579, y: 5842.09}
+      - {x: -406.1594, y: 4934.8477}
+      - {x: -406.1594, y: 4728.6562}
+      - {x: -378.62317, y: 4714.91}
+      - {x: -130.79709, y: 4714.91}
+      - {x: 296.01447, y: 4948.5938}
+      - {x: 296.01447, y: 5347.2305}
+      - {x: 61.95652, y: 5869.582}
+    - - {x: -144.56522, y: 7038}
+      - {x: -364.85504, y: 6749.332}
+      - {x: -378.62317, y: 6611.871}
+      - {x: -378.62317, y: 5910.8203}
+      - {x: -364.85504, y: 5883.328}
+      - {x: 103.260864, y: 5883.328}
+      - {x: 213.40579, y: 6020.789}
+      - {x: 213.40579, y: 6996.7617}
+      - {x: 185.86955, y: 7038}
+    - - {x: -268.47824, y: 8206.418}
+      - {x: -351.08694, y: 7725.3047}
+      - {x: -351.08694, y: 7065.492}
+      - {x: -309.7826, y: 7051.746}
+      - {x: 172.10144, y: 7051.746}
+      - {x: 172.10144, y: 8206.418}
+    - - {x: -61.95652, y: 7725.3047}
+      - {x: -61.95652, y: 7711.5586}
+      - {x: -20.652172, y: 7684.0664}
+      - {x: -20.652172, y: 7711.5586}
+    - - {x: -323.55072, y: 8233.91}
+      - {x: -61.95652, y: 8233.91}
+      - {x: 130.79709, y: 8343.879}
+      - {x: 130.79709, y: 9319.852}
+      - {x: 117.02898, y: 9374.836}
+      - {x: -254.71013, y: 9374.836}
+      - {x: -323.55072, y: 8866.23}
+    - - {x: -34.420288, y: 8563.816}
+      - {x: -34.420288, y: 8646.293}
+      - {x: -48.188404, y: 8646.293}
+      - {x: -48.188404, y: 8632.547}
+      - {x: -20.652172, y: 8618.801}
+      - {x: -20.652172, y: 8605.055}
+      - {x: -61.95652, y: 8563.816}
+      - {x: -117.02898, y: 8467.594}
+      - {x: -75.72463, y: 8481.34}
+    - - {x: -185.86955, y: 10543.254}
+      - {x: -296.01447, y: 10309.57}
+      - {x: -296.01447, y: 9416.074}
+      - {x: -20.652172, y: 9416.074}
+      - {x: 89.49275, y: 9690.996}
+      - {x: 89.49275, y: 10543.254}
+    - - {x: -213.40579, y: 11711.672}
+      - {x: -337.31882, y: 11464.242}
+      - {x: -337.31882, y: 10721.953}
+      - {x: -309.7826, y: 10625.73}
+      - {x: -254.71013, y: 10598.238}
+      - {x: -20.652172, y: 10598.238}
+      - {x: 144.56522, y: 10818.176}
+      - {x: 144.56522, y: 11601.703}
+      - {x: 117.02898, y: 11711.672}
+    - - {x: -268.47824, y: 12880.09}
+      - {x: -378.62317, y: 12550.184}
+      - {x: -378.62317, y: 11917.863}
+      - {x: -268.47824, y: 11780.402}
+      - {x: -34.420288, y: 11780.402}
+      - {x: 61.95652, y: 12014.086}
+      - {x: 61.95652, y: 12880.09}
+    - - {x: 48.188404, y: 12371.484}
+      - {x: 20.652172, y: 12330.246}
+      - {x: 20.652172, y: 12289.008}
+      - {x: 61.95652, y: 12261.516}
+      - {x: 158.33333, y: 12261.516}
+      - {x: 185.86955, y: 12275.262}
+      - {x: 185.86955, y: 12343.992}
+      - {x: 158.33333, y: 12371.484}
+    - - {x: -364.85504, y: 12440.215}
+      - {x: -364.85504, y: 12371.484}
+      - {x: -337.31882, y: 12343.992}
+      - {x: -282.24637, y: 12343.992}
+      - {x: -254.71013, y: 12371.484}
+      - {x: -254.71013, y: 12426.469}
+      - {x: -296.01447, y: 12467.707}
+    - - {x: -130.79709, y: 14048.508}
+      - {x: -433.69562, y: 13814.824}
+      - {x: -433.69562, y: 13141.266}
+      - {x: -213.40579, y: 12976.3125}
+      - {x: -20.652172, y: 12976.3125}
+      - {x: -6.8840575, y: 13003.805}
+      - {x: 61.95652, y: 13732.348}
+      - {x: 61.95652, y: 14048.508}
+    - - {x: 117.02898, y: 13581.141}
+      - {x: 61.95652, y: 13526.156}
+      - {x: 61.95652, y: 13512.41}
+      - {x: 103.260864, y: 13471.172}
+      - {x: 185.86955, y: 13471.172}
+      - {x: 227.1739, y: 13512.41}
+      - {x: 227.1739, y: 13553.648}
+      - {x: 199.63766, y: 13581.141}
+    - - {x: -364.85504, y: 13649.871}
+      - {x: -406.1594, y: 13608.633}
+      - {x: -406.1594, y: 13567.395}
+      - {x: -364.85504, y: 13526.156}
+      - {x: -309.7826, y: 13526.156}
+      - {x: -282.24637, y: 13581.141}
+      - {x: -282.24637, y: 13608.633}
+      - {x: -323.55072, y: 13649.871}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jump Start_0: 126367008
+      Jump Start_1: 1649224280
+      Jump Start_10: -89305367
+      Jump Start_11: 248470992
+      Jump Start_12: 964845494
+      Jump Start_13: -533988968
+      Jump Start_14: -901444739
+      Jump Start_15: -1559746767
+      Jump Start_16: -1105613522
+      Jump Start_17: 1555647037
+      Jump Start_18: -1334568944
+      Jump Start_19: -622893996
+      Jump Start_2: 1213980834
+      Jump Start_20: 1524107204
+      Jump Start_21: 239153136
+      Jump Start_22: -1039243573
+      Jump Start_23: 2060998877
+      Jump Start_3: -189031581
+      Jump Start_4: -905314719
+      Jump Start_5: -1547516764
+      Jump Start_6: 1321213788
+      Jump Start_7: -1242146278
+      Jump Start_8: 1584674925
+      Jump Start_9: -2050643080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,4 +1,4 @@
 repository "TheAdventuresOfSkeleTony@Crypticalfish86@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"  
+     
